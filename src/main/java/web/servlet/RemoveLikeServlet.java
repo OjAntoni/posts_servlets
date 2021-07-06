@@ -1,12 +1,11 @@
 package web.servlet;
 
-import Entity.Like;
-import Entity.User;
-import Service.LikeService;
-import Storage.DbStorage.DbLikeStorage;
+import entity.Like;
+import entity.User;
+import service.LikeService;
+import storage.DbStorage.DbLikeStorage;
 
 import javax.servlet.ServletException;
-import javax.servlet.annotation.WebFilter;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;

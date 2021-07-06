@@ -1,7 +1,7 @@
 package web.servlet;
 
-import Service.PostService;
-import Storage.DbStorage.DbPostStorage;
+import service.PostService;
+import storage.DbStorage.DbPostStorage;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;

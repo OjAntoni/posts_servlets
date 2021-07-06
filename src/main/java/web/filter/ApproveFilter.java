@@ -1,7 +1,7 @@
 package web.filter;
 
-import Entity.Role;
-import Entity.User;
+import entity.Role;
+import entity.User;
 
 import javax.servlet.FilterChain;
 import javax.servlet.ServletException;

@@ -1,12 +1,11 @@
 package web.servlet;
 
-import Entity.Post;
-import Entity.User;
-import Service.PostService;
-import Storage.DbStorage.DbPostStorage;
+import entity.Post;
+import entity.User;
+import service.PostService;
+import storage.DbStorage.DbPostStorage;
 
 import javax.servlet.ServletException;
-import javax.servlet.annotation.WebFilter;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;

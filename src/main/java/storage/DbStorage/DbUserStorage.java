@@ -1,8 +1,8 @@
-package Storage.DbStorage;
+package storage.DbStorage;
 
-import Entity.Role;
-import Entity.User;
-import Storage.storage_interfaces.UserStorage;
+import entity.Role;
+import entity.User;
+import storage.storage_interfaces.UserStorage;
 
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;

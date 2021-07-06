@@ -1,7 +1,7 @@
-package Service;
+package service;
 
-import Entity.Post;
-import Storage.storage_interfaces.PostStorage;
+import entity.Post;
+import storage.storage_interfaces.PostStorage;
 
 import java.util.ArrayList;
 import java.util.List;

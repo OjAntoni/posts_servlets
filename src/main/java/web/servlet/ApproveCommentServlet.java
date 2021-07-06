@@ -1,7 +1,7 @@
 package web.servlet;
 
-import Service.CommentService;
-import Storage.DbStorage.DbCommentStorage;
+import service.CommentService;
+import storage.DbStorage.DbCommentStorage;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;

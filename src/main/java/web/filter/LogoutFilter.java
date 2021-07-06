@@ -1,6 +1,6 @@
 package web.filter;
 
-import Entity.User;
+import entity.User;
 
 import javax.servlet.FilterChain;
 import javax.servlet.ServletException;

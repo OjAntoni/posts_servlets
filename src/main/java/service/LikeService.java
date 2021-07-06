@@ -1,9 +1,9 @@
-package Service;
+package service;
 
-import Entity.Like;
-import Entity.Post;
-import Entity.User;
-import Storage.storage_interfaces.LikeStorage;
+import entity.Like;
+import entity.Post;
+import entity.User;
+import storage.storage_interfaces.LikeStorage;
 
 import java.util.List;
 import java.util.Optional;

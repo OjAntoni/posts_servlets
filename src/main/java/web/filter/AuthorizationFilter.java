@@ -1,7 +1,7 @@
 package web.filter;
 
-import Service.UserService;
-import Storage.DbStorage.DbUserStorage;
+import service.UserService;
+import storage.DbStorage.DbUserStorage;
 
 import javax.servlet.FilterChain;
 import javax.servlet.ServletException;

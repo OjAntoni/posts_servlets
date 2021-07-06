@@ -1,9 +1,9 @@
 package web.filter;
 
-import Entity.Comment;
-import Entity.User;
-import Service.CommentService;
-import Storage.DbStorage.DbCommentStorage;
+import entity.Comment;
+import entity.User;
+import service.CommentService;
+import storage.DbStorage.DbCommentStorage;
 
 import javax.servlet.FilterChain;
 import javax.servlet.ServletException;

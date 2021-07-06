@@ -1,10 +1,10 @@
-package Storage.DbStorage;
+package storage.DbStorage;
 
-import Entity.Comment;
-import Entity.Like;
-import Entity.Post;
-import Entity.User;
-import Storage.storage_interfaces.PostStorage;
+import entity.Comment;
+import entity.Like;
+import entity.Post;
+import entity.User;
+import storage.storage_interfaces.PostStorage;
 
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;

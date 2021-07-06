@@ -1,6 +1,6 @@
-package Storage.storage_interfaces;
+package storage.storage_interfaces;
 
-import Entity.Post;
+import entity.Post;
 
 import java.util.List;
 

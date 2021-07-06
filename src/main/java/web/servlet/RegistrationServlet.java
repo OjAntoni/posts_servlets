@@ -1,9 +1,9 @@
 package web.servlet;
 
-import Entity.Role;
-import Entity.User;
-import Service.UserService;
-import Storage.DbStorage.DbUserStorage;
+import entity.Role;
+import entity.User;
+import service.UserService;
+import storage.DbStorage.DbUserStorage;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;

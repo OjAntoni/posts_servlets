@@ -1,9 +1,9 @@
-package Storage.DbStorage;
+package storage.DbStorage;
 
-import Entity.Like;
-import Entity.Post;
-import Entity.User;
-import Storage.storage_interfaces.LikeStorage;
+import entity.Like;
+import entity.Post;
+import entity.User;
+import storage.storage_interfaces.LikeStorage;
 
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;

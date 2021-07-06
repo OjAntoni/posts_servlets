@@ -1,6 +1,6 @@
-package Storage.storage_interfaces;
+package storage.storage_interfaces;
 
-import Entity.User;
+import entity.User;
 
 public interface UserStorage {
     void save(User user);

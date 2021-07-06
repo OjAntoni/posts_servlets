@@ -1,8 +1,8 @@
-package Storage.storage_interfaces;
+package storage.storage_interfaces;
 
-import Entity.Like;
-import Entity.Post;
-import Entity.User;
+import entity.Like;
+import entity.Post;
+import entity.User;
 
 import java.util.List;
 

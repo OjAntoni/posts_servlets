@@ -1,8 +1,8 @@
-package Service;
+package service;
 
-import Entity.Comment;
-import Entity.Post;
-import Storage.storage_interfaces.CommentStorage;
+import entity.Comment;
+import entity.Post;
+import storage.storage_interfaces.CommentStorage;
 
 import java.util.List;
 import java.util.Optional;
